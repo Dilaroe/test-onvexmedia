@@ -1,7 +1,7 @@
-#test-onvexmedia
+# test-onvexmedia
 
 ## Overview
-This repository contains the source code and related resources for **Project Name**.  
+This repository contains the source code and related resources for **onvexmedia**.  
 The project is intended for educational and/or authorized professional use only.
 
 Please review the usage and licensing terms carefully before using any part of this repository.
